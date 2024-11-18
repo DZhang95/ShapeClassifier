@@ -28,3 +28,4 @@ test cases that achieve the highest possible coverage numbers.
 
 `mvn clean test`
 
+test
